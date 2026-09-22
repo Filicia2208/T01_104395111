@@ -1,4 +1,4 @@
-/*General Page Styling*/
+/*Webpage Styling*/
 * {
     box-sizing: border-box;
 }
@@ -21,10 +21,10 @@ body {
     border-bottom: 1px solid #d8c7b0;
     position: sticky;
     top: 0;
-    z-index: 1000;
+    z-index: 1500;
 }
 
-/*Power Logo*/
+/*Logo*/
 .powericon_logo_link {
     display: block;
 }
@@ -39,7 +39,7 @@ body {
     opacity: 0.80;
 }
 
-/*Navigation*/
+/*Navigation bar*/
 .top_nav {
     display: flex;
     gap: 30px;
